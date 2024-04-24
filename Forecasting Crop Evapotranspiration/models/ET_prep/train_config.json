@@ -1,0 +1,1 @@
+{"num_epochs": 600, "lr_warmup": 20, "learning_rate": 0.001, "default": false, "batch_size": 512, "predict_batch_size": 512}
